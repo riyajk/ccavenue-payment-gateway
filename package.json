@@ -1,0 +1,16 @@
+{
+  "name": "ccavenue-merchant-server-node",
+  "version": "1.0.0",
+  "description": "CCAvenue in node.js web application",
+  "main": "server.js",
+  "author": "Riyaj Khan <riyajk54stack@gmail.com><https://stackoverflow.com/users/4613933/riyaj-khan>",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "config": "^1.27.0",
+    "ejs": "^2.4.1",
+    "express": "^4.16.2",
+    "express-enrouten": "^1.3.0",
+    "mysql": "^2.15.0",
+    "request": "^2.83.0"
+  }
+}
