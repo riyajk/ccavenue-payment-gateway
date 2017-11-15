@@ -13,11 +13,11 @@ API :
 
 Update the parameters  in **config/default.json**
 
-`"ccavenue" : {
-        "RSAKeyUrl" :"https://test.ccavenue.com/transaction/getRSAKey",
-        "workingKey" : "*******************************",
-        "accessCode" :"******************************"
-}`
+```"ccavenue" : {
+"RSAKeyUrl" :"https://test.ccavenue.com/transaction/getRSAKey",
+"workingKey" : "*******************************",
+"accessCode" :"******************************"
+}
 
 
 1. **RSAKeyUrl** : test url for CCAevnue merchant server.
