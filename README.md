@@ -1,4 +1,4 @@
-**git clone git@gitlab.com:riyajk54/ccavenue-payment-gateway.git**
+**git clone https://github.com/riyajk/ccavenue-payment-gateway.git**
 
 **cd ccavenue-payment-gateway**
 
